@@ -27,19 +27,19 @@ class HomePage extends StatelessWidget {
     List<SliderItem> sliderItems = [
       SliderItem(
         imageUrl: 'https://i.postimg.cc/x89LK7kH/candy-bar-decorated-by-delicious-sweet-buffet-with-cupcakes-other-dessertscandieshappy-birthday-conc.jpg ',
-        title: 'Promo 1',
+        title: 'Voir nos Sweets',
         subtitle: 'Découvrez nos nouveautés',
         onPressed: () {},
       ),
       SliderItem(
         imageUrl: 'https://i.postimg.cc/3N6pPwSC/many-different-desserts.jpg',
-        title: 'Promo 2',
+        title: 'Gâteaux à ne pas manquer',
         subtitle: 'Offres spéciales',
         onPressed: () {},
       ),
       SliderItem(
         imageUrl: 'https://i.postimg.cc/Z563M4rS/sweets-cakes-counter.jpg',
-        title: 'Promo 3',
+        title: 'Nos douceurs préférées',
         subtitle: 'À ne pas manquer',
         onPressed: () {},
       ),
